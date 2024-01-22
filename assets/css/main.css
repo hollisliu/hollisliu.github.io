@@ -2835,10 +2835,10 @@
 		.main.style2 {
 			background-color: #333;
 			color: rgba(255, 255, 255, 0.75);
-			background-attachment: fixed,							fixed;
-			background-image: url("images/overlayBlueGreen.png"), url("../../images/speech@2x.jpg");
+			background-attachment: fixed,fixed;
+			background-image: url("images/overlayBlueGreen.png"), url("../../images/fuji.jpeg");
 			background-size: cover,cover;
-			background-position: 25% 0%;
+			background-position: 0% 60%;
 		}
 
 		/*.main.style2: hover{
@@ -3253,7 +3253,7 @@
 
 /* Large */
 
-	@media screen and (max-width: 1140px) {
+	@media screen and (max-width: 1440px) {
 
 		/* Basic */
 
